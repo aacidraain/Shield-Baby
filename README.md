@@ -39,7 +39,7 @@ Installation Steps
 
     bash
 
-git clone https://github.com/yourusername/defensive-script.git
+git clone https://github.com/aacidraain/Shield-Baby
 cd defensive-script
 
 Make the Script Executable
